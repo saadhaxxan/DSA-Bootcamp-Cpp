@@ -1,4 +1,4 @@
-<div class="center">
+<div align="center">
 <h1>🔥DSA Bootcamp Cpp</h1>
 </div>
 
@@ -17,3 +17,12 @@
   <a href="https://saad-hassan.com">
   <img width="30px" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" />
   </a>
+
+
+
+
+ 
+## Contributions Welcome❤️
+<a href = "https://github.com/saadhaxxan/DSA-Bootcamp-Cpp/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=saadhaxxan/DSA-Bootcamp-Cpp"/>
+</a>
