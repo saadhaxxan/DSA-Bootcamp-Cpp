@@ -7,4 +7,4 @@
 
 ## Lectures
 
-### Coming Soon
+- [C++ and STL Part 1](https://mega.nz/file/JjAnXaBB#6xpui6otknyGnhepMA3GFejvOT_7nlAVBcC4x_ZcRJs)
