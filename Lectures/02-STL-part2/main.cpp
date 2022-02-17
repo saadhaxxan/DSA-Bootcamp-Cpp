@@ -6,7 +6,6 @@
 // Given an array of length N sort it without using any sorted algorithm
 // N = 1^5
 
-
 // Given an array of length N and remove duplicates
 // N = 1^5
 
@@ -70,7 +69,7 @@ int main()
 	// while(n--){
 	// 	string s;
 	// 	cin>>s;
-	// 	m[s]++;
+	// 	m[s]++;	//adding s as key, and ++ the value in map
 	// }
 
 	// auto it=m.find("saad"); // returns an iterator
