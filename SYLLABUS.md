@@ -14,3 +14,4 @@
   - [Linear & Binary Search Part 2](https://www.youtube.com/watch?v=KJ1PO1yWxQY)
 - [Math for DSA Part 1](https://www.youtube.com/watch?v=vwCWJ2ebn_E)
 - [Linked List Part 1](https://www.youtube.com/watch?v=rjh0Zven_Dw)
+  - [Linked List Part 2](https://www.youtube.com/watch?v=RSTRlxVN-0w)
