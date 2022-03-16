@@ -15,3 +15,4 @@
 - [Math for DSA Part 1](https://www.youtube.com/watch?v=vwCWJ2ebn_E)
 - [Linked List Part 1](https://www.youtube.com/watch?v=rjh0Zven_Dw)
   - [Linked List Part 2](https://www.youtube.com/watch?v=RSTRlxVN-0w)
+- [Stack and Queues](https://www.youtube.com/watch?v=85O5B-V4NhQ)
